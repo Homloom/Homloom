@@ -13,7 +13,7 @@ Estoy creando proyectos open source variados para compartir y colaborar. ¡Esté
 
 ## 📫 ¿Te gustaría hacer una colaboración? ¡Contáctame!
 - YouTube: [Homloom](https://www.youtube.com/channel/UCnN3YDygiQNhI9rgNG13OGA)
-- Discord: [Homloom#xxxx](https://discord.com/users/1177295303544680458)
+- Discord: [Homloom](https://discord.com/users/1177295303544680458)
 - Email: pixelcodedeveloper128256512xyz@gmail.com
 
 ---
